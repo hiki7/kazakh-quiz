@@ -1,0 +1,8 @@
+<h2>Questions</h2>
+<div *ngFor="let question of questions">
+  <p>{{ question.text }}</p>
+  <button (click)="toggleAnswer(question.id)">View Answer</button>
+  <div *ngIf="isAnswerVisible(question.id)">
+    <p>{{ question.answer }}</p>
+  </div>
+</div>
