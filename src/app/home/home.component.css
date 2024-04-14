@@ -39,7 +39,8 @@ section {
 .rules {
     margin: 0 auto;
     padding: 20px 40px;
-    width: 70%;
+    width: 100%;
+    max-width: 1200px;
     text-align: center;
     color: var(--main);
     font-size: 35px;
@@ -72,4 +73,26 @@ section {
     height: 80px;
     color: var(--text);
     font-size: 45px;
+}
+
+@media (max-width: 767px) {
+    .greetings h2 {
+        font-size: 60px;
+    }
+
+    .rules {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+    .rules {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .rules {
+        font-size: 35px;
+    }
 }
