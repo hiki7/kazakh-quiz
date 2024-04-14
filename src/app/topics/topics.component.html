@@ -1,4 +1,6 @@
-<h2>Topics</h2>
-<div *ngFor="let topic of topics">
-    <button (click)="goToQuestions(topic.id)">{{topic.name}}</button>
+<div class="topics-container">
+    <h2 class="title">Topics</h2>
+    <div *ngFor="let topic of topics" class="topics">
+        <button (click)="goToQuestions(topic.id)" class="topic">{{topic.name}}</button>
+    </div>
 </div>
