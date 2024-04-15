@@ -1,8 +1,10 @@
-<h2>Questions</h2>
-<div *ngFor="let question of questions">
-  <p>{{ question.text }}</p>
-  <button (click)="toggleAnswer(question.id)">View Answer</button>
-  <div *ngIf="isAnswerVisible(question.id)">
-    <p>{{ question.answer }}</p>
+<div class="questions-container">
+  <h2 class="title">Questions</h2>
+  <div *ngFor="let question of questions" class="questions">
+    <p class="question-text">{{ question.text }}</p>
+    <button (click)="toggleAnswer(question.id)" class="view-answer-btn">View Answer</button>
+    <div *ngIf="isAnswerVisible(question.id)">
+      <p class="answer">*{{ question.answer }}</p>
+    </div>
   </div>
 </div>
