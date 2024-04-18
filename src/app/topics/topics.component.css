@@ -10,9 +10,13 @@
     height: 100vh;
 }
 
+.title {
+    margin-bottom: 20px;
+}
+
 .topic {
     width: 900px;
-    margin-bottom: 7px;
+    margin-bottom: 10px;
     border: 1px solid var(--main);
     border-radius: 7px;
     background-color: var(--focus);
@@ -23,6 +27,7 @@
 
 .topic:hover {
     cursor: pointer;
+    background-color: #b6b190;
 }
 
 @media (max-width: 767px) {

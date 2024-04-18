@@ -1,8 +1,8 @@
 <div class="questions-container">
-  <h2 class="title">Questions</h2>
+  <h2 class="title">Сұрақтар</h2>
   <div *ngFor="let question of questions" class="questions">
     <p class="question-text">{{ question.text }}</p>
-    <button (click)="toggleAnswer(question.id)" class="view-answer-btn">View Answer</button>
+    <button (click)="toggleAnswer(question.id)" class="view-answer-btn">Жауап</button>
     <div *ngIf="isAnswerVisible(question.id)">
       <p class="answer">*{{ question.answer }}</p>
     </div>

@@ -22,7 +22,8 @@
     padding: 20px;
     width: 100%;
     border: 1px solid var(--secondary);
-    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 .question-text {
@@ -49,6 +50,10 @@
     font-size: 17px;
     font-style: italic;
 }
+
+/* .go-back-btn {
+    margin-top: 25px;
+} */
 
 @media (max-width: 767px) {
     .title {

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
+import { ActivatedRoute, Router, RouterModule, RouterOutlet } from '@angular/router';
 import { DataService } from '../data.service';
 import { CommonModule } from '@angular/common';
 
@@ -8,6 +8,8 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [
     CommonModule,
+    RouterModule,
+    RouterOutlet
   ],
   templateUrl: './questions.component.html',
   styleUrl: './questions.component.css'

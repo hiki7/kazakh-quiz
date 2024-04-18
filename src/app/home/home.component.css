@@ -34,6 +34,8 @@ section {
     cursor: default;
     z-index: 1;
     position: relative;
+    opacity: 0;
+    animation: fadeIn 2s ease forwards;
 }
 
 .rules {
@@ -74,6 +76,11 @@ section {
     height: 80px;
     color: var(--text);
     font-size: 45px;
+    font-weight: 700;
+}
+
+.rules a:hover {
+    background-color: #2e211b;
 }
 
 @media (max-width: 767px) {
@@ -95,5 +102,17 @@ section {
 @media (min-width: 1200px) {
     .rules {
         font-size: 35px;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
     }
 }
