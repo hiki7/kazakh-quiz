@@ -1,8 +1,7 @@
 [
-    { "id": 1, "text": "Question 1 for Topic 2", "answer": "Answer to Question 1" },
-    { "id": 2, "text": "Question 2 for Topic 2", "answer": "Answer to Question 1" },
-    { "id": 3, "text": "Question 3 for Topic 2", "answer": "Answer to Question 1" },
-    { "id": 4, "text": "Question 4 for Topic 2", "answer": "Answer to Question 1" },
-    { "id": 5, "text": "Question 5 for Topic 2", "answer": "Answer to Question 1" }
+    { "id": 1, "text": "Жаргон сөздер дегеніміз не?", "answer": "Жаргон - күнделікті сөйлесуде қолданылатын тілдің бейресми нұсқасы" },
+    { "id": 2, "text": "Рецензия дегеніміз не?", "answer": "Рецензия - әдеби шығарманы сыни тұрғыдан талдап қарастырып бағалайтын, пікір білдіретін әдеби сынның жанры" },
+    { "id": 3, "text": "Жазу жүйесінің қандай түрлері бар?", "answer": "пиктографиялық жазу, идеографиялық жазу, буын жазуы, әріптік немесе дыбыстық жазу" },
+    { "id": 4, "text": "\"бар-сайшы, бар-саншы, кел-сейші, кел-сенші\" - Батыс тілінде қалай болады?", "answer": "баршиш, келшиш" }
 ]
   

@@ -1,8 +1,8 @@
 [
-    { "id": 1, "text": "Question 1 for Topic 4", "answer": "Answer to Question 1" },
-    { "id": 2, "text": "Question 2 for Topic 4", "answer": "Answer to Question 1" },
-    { "id": 3, "text": "Question 3 for Topic 4", "answer": "Answer to Question 1" },
-    { "id": 4, "text": "Question 4 for Topic 4", "answer": "Answer to Question 1" },
-    { "id": 5, "text": "Question 5 for Topic 4", "answer": "Answer to Question 1" }
+    { "id": 1, "text": "Шумер тіліндегі “Дингир” сөзі нені білдіреді? ", "answer": "Тәңір" },
+    { "id": 2, "text": "Араб графикасына негізделген жазу қазақ мәдениетінде қашан пайда болды? ", "answer": "8ғ." },
+    { "id": 3, "text": "Қадим жүйесінде қанша әріп болды?", "answer": "35 әріп" },
+    { "id": 4, "text": "Орыс жазуына көшу қай ғасырда басталды?", "answer": "19ғ. аяғында" },
+    { "id": 5, "text": "Қазақ тілінің кирил әліпбиінде қанша әріп бар? ", "answer": "42 әріп" }
 ]
   

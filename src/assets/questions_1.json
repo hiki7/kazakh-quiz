@@ -1,8 +1,22 @@
 [
-    { "id": 1, "text": "Question 1 for Topic 1", "answer": "Answer to Question 1" },
-    { "id": 2, "text": "Question 2 for Topic 1", "answer": "Answer to Question 2" },
-    { "id": 3, "text": "Question 3 for Topic 1", "answer": "Answer to Question 3" },
-    { "id": 4, "text": "Question 4 for Topic 1", "answer": "Answer to Question 4" },
-    { "id": 5, "text": "Question 5 for Topic 1", "answer": "Answer to Question 5" }
+    { 
+        "id": 1, "text": "Қазақ тілі қандай бұтағына жатады?", 
+        "answer": "Қыпшақ бұтағы" 
+    },
+    { 
+        "id": 2, "text": "Көп мағыналы сөздер мен омонимдердің айырмашылығы.", 
+        "answer": "Әртүрлі сөз табы" 
+    },
+    { 
+        "id": 3, "text": "Терминологияның неше талаптары бар?", 
+        "answer": "11" 
+    },
+    { 
+        "id": 4, 
+        "text": "Cөздерді екі бағанға бөліңіз:\nҚұрт ауруы, Аузы жеңіл, Мылжың, Зағип\n| Дисфемизм | Эвфемизм |", 
+        "answer": "Дисфемизм - құрт ауруы, мылжың. Эвфемизм - ауызы жеңіл, зағип"
+ 
+    }
+    
 ]
   

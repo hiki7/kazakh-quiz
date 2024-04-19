@@ -1,8 +1,22 @@
 [
-    { "id": 1, "text": "Question 1 for Topic 5", "answer": "Answer to Question 1" },
-    { "id": 2, "text": "Question 2 for Topic 5", "answer": "Answer to Question 1" },
-    { "id": 3, "text": "Question 3 for Topic 5", "answer": "Answer to Question 1" },
-    { "id": 4, "text": "Question 4 for Topic 5", "answer": "Answer to Question 1" },
-    { "id": 5, "text": "Question 5 for Topic 5", "answer": "Answer to Question 1" }
+    { 
+        "id": 1, 
+        "text": "\"Дикция\" сөзі қазақ тіліне қалай аударылады?", 
+        "answer": "Мақам" 
+    },
+    { 
+        "id": 2, 
+        "text": "Қандай өнер прагматикалық диалогтың дамыған түрі?", 
+        "answer": "Айтыс" 
+    },
+    { 
+        "id": 3, 
+        "text": "Шаршы топ алдында сөйлейтін адам бойында тыңдаушыларды баурап алуға қажетті қандай қабілет пен қасиеттердің болуы шарт?", 
+        "answer": "Логос, этос, пафос" 
+    },
+    { 
+        "id": 4, 
+        "text": "Пафостың мақсаты неде?", 
+        "answer": "Пафос тыңдаушының жүрегіне және сезіміне жүгінеді және оның мақсаты - аудиторияда жанашырлық туғызу" 
+    }
 ]
-  

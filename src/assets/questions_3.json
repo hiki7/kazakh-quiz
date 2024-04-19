@@ -1,8 +1,6 @@
 [
-    { "id": 1, "text": "Question 1 for Topic 3", "answer": "Answer to Question 1" },
-    { "id": 2, "text": "Question 2 for Topic 3", "answer": "Answer to Question 1" },
-    { "id": 3, "text": "Question 3 for Topic 3", "answer": "Answer to Question 1" },
-    { "id": 4, "text": "Question 4 for Topic 3", "answer": "Answer to Question 1" },
-    { "id": 5, "text": "Question 5 for Topic 3", "answer": "Answer to Question 1" }
+    { "id": 1, "text": "Сіздің ойыңызша «Қазақ тілі-ғылыми тіл» болып саналады ма? Неге?", "answer": "" },
+    { "id": 2, "text": "Абай.Қ-ның 32 қара сөзіндегі «мұлахаза» және «мұхафаза» деген сөздер нені білдіреді?", "answer": "Мұлахаза - ойласу, пікірлесу, Мұхафаза - сақтау, қорғау" },
+    { "id": 3, "text": "Ғалым және ғылым деген сөздердің айырмашылығы неде?", "answer": "" }
 ]
   

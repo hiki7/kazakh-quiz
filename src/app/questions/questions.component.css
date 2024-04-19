@@ -28,6 +28,7 @@
 
 .question-text {
     margin-bottom: 5px;
+    white-space: pre-wrap;
 }
 
 .view-answer-btn {

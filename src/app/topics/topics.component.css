@@ -22,6 +22,7 @@
     background-color: var(--focus);
     color: var(--main);
     font-size: 25px;
+    font-weight: 700;
     height: 50px;
 }
 
